@@ -1,0 +1,23 @@
+{
+  "name": "tfc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wufe/tfc"
+  },
+  "bin": {
+    "tfc": "bin/tfcheck"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "get-stdin": "^6.0.0",
+    "gitignore-parser": "^0.0.2"
+  },
+  "author": {
+    "email": "simone.bembi@gmail.com",
+    "name": "Simone Bembi",
+    "url": "https://github.com/wufe"
+  }
+}
