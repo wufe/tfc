@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "chalk": "^2.4.1",
-    "get-stdin": "^6.0.0",
     "gitignore-parser": "^0.0.2"
   },
   "author": {

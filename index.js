@@ -1,4 +1,3 @@
-const getStdin = require('get-stdin');
 const exec = require('child_process').exec;
 const chalk = require('chalk');
 const parser = require('gitignore-parser');
